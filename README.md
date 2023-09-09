@@ -3,6 +3,8 @@
 Simple personal website built with Python and [Flask](http://flask.pocoo.org/).
 The deploy is done with [Frozen-Flask](https://pythonhosted.org/Frozen-Flask/) and [Netlify](https://www.netlify.com/).
 
+I learned a lot working with small flask app like this and have added more functionality in the new version. This page has been depreicated since September 2023, the new page is up on [My Portfolio](datatalking.github.io), if you spot any errors or have corrections please notify me by creating an issue. Since this is open source I'm open to PR or collaboration.
+
 
 ![Screen Shot 2023-08-22 at 3 00 36 PM](https://github.com/datatalking/2023_website/assets/11813209/b2018435-012a-4131-ab93-cb244c4d5284)
 
