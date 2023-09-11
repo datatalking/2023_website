@@ -1,9 +1,16 @@
 # Personal Website
 
 Simple personal website built with Python and [Flask](http://flask.pocoo.org/).
-The deploy is done with [Frozen-Flask](https://pythonhosted.org/Frozen-Flask/) and [Netlify](https://www.netlify.com/).
+The deployment was done with [Frozen-Flask](https://pythonhosted.org/Frozen-Flask/) and [Netlify](https://www.netlify.com/).
 
-I learned a lot working with small flask app like this and have added more functionality in the new version. This page has been depreicated since September 2023, the new page is up on [My Portfolio](datatalking.github.io), if you spot any errors or have corrections please notify me by creating an issue. Since this is open source I'm open to PR or collaboration.
+I learned a lot working with a small flask app like this for version 1.0.1 and have added more functionality in version 2.0.0. I've added new features
+- [X] Projects section
+- [X] Overview of current projects and updates
+- [ ] Adding blog functionality
+- [ ] Adding screenshots of past dashboards
+- [ ] Adding curriculum tracker for my Masters program
+- [ ] More functionality comming soon.
+This page has been deprecated since September 2023; version 2.0.0 of [My Portfolio](https://datatalking.github.io). If you spot any errors or have corrections, please notify me by creating an issue. Since this is open source, I'm open to PR or collaboration.
 
 
 ![Screen Shot 2023-08-22 at 3 00 36 PM](https://github.com/datatalking/2023_website/assets/11813209/b2018435-012a-4131-ab93-cb244c4d5284)
